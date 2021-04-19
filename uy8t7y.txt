@@ -1,0 +1,7 @@
+C:\Program Files\Java\jre1.8.0_281\bin
+\
+set PATH="c:\program files\apache-maven-3.x.y\bin";%PATH%
+
+set PATH="C:\Program Files\Java\jre1.8.0_281\bin";%PATH%
+
+M2_HOME=C:\Program Files\Java\jre1.8.0_281\bin

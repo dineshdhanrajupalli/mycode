@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>denny dinesh</title>
+</head>
+<body bgcolor="aqua">
+<hr><a href="https://www.youtube.com/" target="blank"><img src="D:\chintu\fdf\youtube.jpg"width="100"height="100"></a><hr>
+<hr><a href="https://www.instagram.com/" target="blank"><img src="D:\chintu\fdf\snapshot.jpg"width="100"height="100"></a><hr>     
+<hr><a href="https://accounts.snapchat.com/accounts/login?continue=https%3A%2F%2Faccounts.snapchat.com%2Faccounts%2Fwelcome" target="blank"><img src="D:\chintu\fdf\instagram.jpg"width="100"height="100"></a><hr>     
+<hr><a href="https://www.linkedin.com/login" target="blank"><img src="D:\chintu\fdf\linkedin.jpg"width="100"height="100"></a><hr>          
+<h1 align="center"><font size="64" color="green" face="impact"><i>DHANARAJUPALLI DINESH</i></font></H1>
+<h1 align="center">ECE</h1>
+<h1 align="center">B.TECH</h1>
+<hr><hr>||<a href="https://in.linkedin.com/in/dhanarajupalli-dinesh-6769341b2" target="blank" size="24">Dinesh||</a><hr><hr>
+<center>
+<img src="D:\chintu\image.jpg"width="600" height="600"style="transform:rotate(270deg);"></center> 
+<font size="6" colour="orange">
+<ul type="circle">
+<li>You Write Clean, Reusable Code That's Easier to Read and Test. ...</li>
+<li>You Understand How Your Code Helps Drive the Overall Business. ...</li>
+<li>You Listen More Than You Speak—Or You at Least Listen Before You Speak. ...</li>
+<li>You Are Disciplined. ...</li>
+<li>You're Able to Deeply Focus on the Right Thing. ...</li>
+<li>You Are a Persistent Problem-Solver.</li>
+</ul>
+</font>
+<u>1. POSITIVE ATTITUDE</u>
+<p>A great programmer cares about your product’s success. They are positive, willing to go the distance to get the job done and bring their best every day. Although it’s important not to exhaust a developer with frequent urgent deadlines, crunch time is sometimes unavoidable. When you need to bring a product to market or need to ship a certain feature out for a deadline, the great programmer will step up and get the product released whenever possible. Because they care. A great developer doesn’t let their ego get in the way of constructive criticism. A good way to instill a positive attitude is to give them interesting projects to work on, give them a sense of ownership, and praise them for good work. Startups can give out stock options, pay employees for working overtime, provide compensated paid leave or find other perks that ensure great programmers are retained.</p>
+<u>2. SUPREME COMMUNICATION SKILLS</u>
+<p>Good communication skills directly correlate with good development skills. A great programmer is able to understand problems clearly, break them down into hypotheses, and propose solutions in a coherent manner. They understand concepts quickly, or ask the right questions to help make them clear, and don’t need to have everything written down in a specifications document. Great offshore developers usually speak multiple languages coherently and are very comfortable with documentation in English. In the world of technology, English is the defacto language of most documentation and developer interactions.</p>
+<hr><hr>
+<marquee direction="right to left" width="50%" scrollamount="10"><font size="26" color="red">HAPPY BIRTHDAY CHARAN</font></marquee>
+<hr><hr>
+</body>
+</html>
